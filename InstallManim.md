@@ -20,11 +20,13 @@
   - Busca "manim" en la barra de búsqueda.
   - Selecciona "manim" y haz clic en "Install Package".
   - Espera a que se complete la instalación.
+ 
+  - Puedes ver este video de referencia: 
 
 ### 4. Configurar MiKTeX en Manim:
 
 - **Configura la ruta de MiKTeX:**
-  - Abre el archivo **config.py** dentro del directorio del proyecto.
+  - Abre el archivo **config.py** dentro del directorio del proyecto en Pycharm.
   - Busca la línea `TEX_DIRECTORY = ''` y reemplaza el valor vacío con la ruta de instalación de MiKTeX. Por ejemplo, si lo instalaste en la carpeta "C:/Program Files/MiKTeX 2.9", la ruta sería: `TEX_DIRECTORY = 'C:/Program Files/MiKTeX 2.9/miktex/bin/x64'`.
 - **Instala paquetes adicionales de LaTeX (opcional):**
   - Si necesitas usar paquetes de LaTeX específicos en tus animaciones, puedes instalarlos utilizando el administrador de paquetes de MiKTeX.
