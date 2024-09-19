@@ -62,6 +62,7 @@
 
 - **Comprueba la ruta de MiKTeX en la configuración:** Si la animación no funciona, asegúrate de que la ruta de MiKTeX en el archivo **config.py** sea correcta.
 - **Instala paquetes de LaTeX adicionales:** Si necesitas usar paquetes de LaTeX específicos, instálalos utilizando el administrador de paquetes de MiKTeX.
+-  **Instala FFMPEG:** Algunas veces puede que este programa no se instale correctamente. Te sufgiero que lo instales manualmente   https://www.youtube.com/watch?v=0zN9oZ98ZgE .
 - **Busca ayuda:** Si tienes problemas al instalar MiKTeX o Manim, puedes buscar ayuda en la documentación de Manim https://docs.manim.community/en/stable/ o en foros y grupos de ayuda de Manim.
 
 ¡Espero que esta guía te ayude a instalar Manim en PyCharm y empezar a crear tus propias animaciones matemáticas!
